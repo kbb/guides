@@ -183,7 +183,9 @@ Email
 JavaScript
 ----------
 
-* Use CoffeeScript.
+* Use ES6 when possible with a tool like [6to5].
+
+[6to5]: http://6to5.org/
 
 HTML
 ----
