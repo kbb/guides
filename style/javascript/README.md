@@ -4,7 +4,7 @@ JavaScript
 [Sample](sample.js)
 
 * Prefer ES6 classes over library provided classes.
-* Prefer `===` and `!===` to `==` and `!=`.
+* Prefer `===` and `!==` to `==` and `!=`.
 * Prefer [arrow functions] `=>`, over the `function` keyword.
 * Use semicolons at the end of each statement.
 * Prefer double quotes.
@@ -14,6 +14,9 @@ JavaScript
 * Prefer [template strings] over string concatenation.
 * Prefer promises over callbacks.
 * Prefer array functions like `map` and `forEach` over `for` loops.
+* Use `const` to declare variables.
+* Use `let` if you have to rebind variables.
+* Avoid `var` when declaring variables.
 
 [template strings]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/template_strings
 [arrow functions]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
