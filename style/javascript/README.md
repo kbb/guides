@@ -9,7 +9,7 @@ JavaScript
 * Use semicolons and the end of each statement.
 * Prefer double quotes.
 * Use `PascalCase` for classes, `lowerCamelCase` for variables and functions,
-  `SCREAMING_SNAKE_CASE` for constants, `_single_leading_underscore` for private
+  `SCREAMING_SNAKE_CASE` for constants, `_singleLeadingUnderscore` for private
   variables and functions.
 * Prefer [template strings] over string concatenation.
 * Prefer promises over callbacks.
