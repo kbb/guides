@@ -5,7 +5,7 @@ JavaScript
 
 * Prefer ES6 classes over library provided classes.
 * Prefer `===` and `!===` to `==` and `!=`.
-* Prefer [arrow functions] =>, over the function keyword
+* Prefer [arrow functions] `=>`, over the `function` keyword.
 * Use semicolons at the end of each statement.
 * Prefer double quotes.
 * Use `PascalCase` for classes, `lowerCamelCase` for variables and functions,
