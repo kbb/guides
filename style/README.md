@@ -1,8 +1,6 @@
 Style
 =====
 
-A guide for programming in style.
-
 Use [Hound] to automatically review your
 GitHub pull requests for
 style guide violations.
