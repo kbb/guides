@@ -4,7 +4,8 @@ JavaScript
 [Sample](sample.js)
 
 * Prefer ES6 classes over library provided classes.
-* Prefer `===` and `!==` to `==` and `!=`.
+* Use strict equality checks (`===` and `!==`) except when comparing against
+  (`null` or `undefined`).
 * Prefer [arrow functions] `=>`, over the `function` keyword.
 * Use semicolons at the end of each statement.
 * Prefer double quotes.
