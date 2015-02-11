@@ -1,4 +1,4 @@
-object = {spacing: false}
+object = { spacing: true }
 
 class Cat {
   canBark() {
