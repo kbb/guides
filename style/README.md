@@ -1,12 +1,17 @@
 Style
 =====
 
+Delivering features is our ultimate goal.
+This style guide should be used in service of that goal,
+and not as an end in itself.
+
 Your time is valuable.
 Use [Hound] to automatically review your
 GitHub pull requests for
 style guide violations.
 
 [Hound]: https://houndci.com
+
 
 In addition to the general guidelines below, we also have the following more
 detailed, language/framework-specific style guides:
