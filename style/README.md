@@ -1,6 +1,7 @@
 Style
 =====
 
+Your time is valuable.
 Use [Hound] to automatically review your
 GitHub pull requests for
 style guide violations.
